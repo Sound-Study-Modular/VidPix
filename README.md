@@ -11,3 +11,6 @@ VidPix zip file contains
 
 [1.2.1] 8.4.2021 
   New pack of patterns added
+  
+[1.2.2] 11.24.2021 
+  New pack of patterns added
