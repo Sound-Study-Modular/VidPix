@@ -1,9 +1,8 @@
 # VidPix
 8 Bit visual synthesizer based on the Pixelmusic3000.
 VidPix zip file contains
-  - Programming Instructions
-  - VID PIX NTSC v1.2.1.spin
-  - VID PIX PAL v1.2.1.spin
+  - VID PIX NTSC v1.2.2.spin
+  - VID PIX PAL v1.2.2.spin
   - Graphics.spin
   - display.tv.text.spin
   - tv.spin
